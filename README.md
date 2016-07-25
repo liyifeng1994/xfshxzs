@@ -6,7 +6,7 @@
 
 ### 使用截图
 ![二维码](http://img.blog.csdn.net/20160724171659263)
-![电影功能截图](http://img.blog.csdn.net/20160724161304217)
+![电影截图](http://img.blog.csdn.net/20160724161304217)
 
 ### 相关依赖
 1. [wx-tools](https://github.com/antgan/wx-tools)
